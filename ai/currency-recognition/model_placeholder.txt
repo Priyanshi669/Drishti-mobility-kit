@@ -1,0 +1,2 @@
+Currency Recognition Model Placeholder
+(Will include Indian currency classifier later)

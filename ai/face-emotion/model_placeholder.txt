@@ -1,0 +1,2 @@
+Emotion Detection Model Placeholder
+(Dlib / CNN model to be added later)

@@ -1,0 +1,2 @@
+OCR Model Placeholder
+(Tesseract / EasyOCR model will be added here later)
