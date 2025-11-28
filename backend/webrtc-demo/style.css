@@ -1,0 +1,12 @@
+/* Drishti WebRTC Placeholder Styling */
+
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #f9f9f9;
+}
+
+video {
+    margin-top: 20px;
+    border-radius: 10px;
+}
