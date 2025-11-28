@@ -1,0 +1,22 @@
+/*
+Drishti Mobility Kit - Android Build Script (Placeholder)
+This is a placeholder gradle file to show structure only.
+*/
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 33
+
+    defaultConfig {
+        applicationId "com.drishti"
+        minSdkVersion 21
+        targetSdkVersion 33
+        versionCode 1
+        versionName "1.0"
+    }
+}
+
+dependencies {
+    // Add future app dependencies here
+}
